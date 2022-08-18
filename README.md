@@ -6,19 +6,19 @@ VS Code (because it's cool), Docker Desktop
 
 ## Basic Understanding
 Kafka — It is an event streaming platform which enables users to collect, store, and process data to build real-time event-driven applications which is written in Java and Scala.
-</br>
+</br></br>
 Kafka broker — It is a single Kafka Cluster which is made of Brokers, They handle producers and consumers and keeps data replicated in the cluster.
-</br>
+</br></br>
 Kafka topic — It is a category in which records are published. For example someone has a large blog site — here each blog category could be a single Kafka topic.
-</br>
+</br></br>
 Kafka producer — It is an application (a piece of code) where we write to get data to Kafka.
-</br>
+</br></br>
 Kafka consumer — It is a program where we write to get data out of Kafka. Sometimes a consumer is also a producer, as it puts data elsewhere in Kafka.
-</br>
+</br></br>
 Zookeeper — It is Used to manage a Kafka cluster, track node status, and maintain a list of topics and messages.
-</br>
+</br></br>
 Docker — It is an open-source platform for building, deploying, and managing containers. It allows us to package our applications into containers, which simplifies application distribution. That way, we know if the application works on our machine or not, it will work on any machine we deploy it to.
-
+</br>
 ## Steps to Follow:
 
 Step1:
