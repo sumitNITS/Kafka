@@ -11,7 +11,7 @@
 
 3) python consumer.py
 
-4) python producer.py (Open this in a new terminal and observer consumer.py which is running in differnt terminal)
+4) python producer.py (Open this in a new terminal and observer consumer.py which is running in different terminal)
 
 
 Cool, that's it!
