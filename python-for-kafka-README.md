@@ -2,7 +2,7 @@
 
 ## Steps to Follow:
 
-1)Save the generator.py, producer.py and consumer.py files
+1) Save the generator.py, producer.py and consumer.py files
 
 2) Setup the virtualenv and activate it: </br>
 #pip install virtualenv </br>
