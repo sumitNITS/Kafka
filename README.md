@@ -45,7 +45,7 @@ Now, start the kafka shell using the command below:
 step5:
 In order to create the kafka topic move to:
 
-#cd /opt/kafka_<version>/bin
+#cd /opt/kafka_version-number>/bin
 
 step6:
 Use the command below to create the kafka topic:
