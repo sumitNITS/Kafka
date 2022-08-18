@@ -40,7 +40,7 @@ Verify that both the containers are running fine using:
 step4:
 Now, start the kafka shell using the command below:
 
-#docker exec -it kafka /bin/sh
+#docker exec -it kafka bash
 
 step5:
 In order to create the kafka topic move to:
