@@ -20,7 +20,6 @@ Zookeeper — It is Used to manage a Kafka cluster, track node status, and maint
 Docker — It is an open-source platform for building, deploying, and managing containers. It allows us to package our applications into containers, which simplifies application distribution. That way, we know if the application works on our machine or not, it will work on any machine we deploy it to.
 </br>
 ## Steps to Follow:
-</br>
 Step1:
 In order to run kafka we will need two docker images below:</br></br>
 Image 1: wurstmeister/zookeeper</br>
@@ -89,3 +88,5 @@ step13:
 In order to see all messages which is send to a specific topic, use the command:
 
 #kafka-console-consumer.sh --bootstrap-server kafka:9092 --topic topic_name --from-beginning
+
+Cool, We are done here!
