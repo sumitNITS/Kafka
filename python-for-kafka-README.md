@@ -3,9 +3,8 @@
 ## Steps to Follow:
 
 1) Setup the virtualenv and activate it: </br>
-
-#pip install virtualenv
-#python -m virtalenv name_of_environment
+#pip install virtualenv </br>
+#python -m virtalenv name_of_environment </br>
 #.\name_of_environment\Scripts\activate
 
 2) pip install kafka-python
