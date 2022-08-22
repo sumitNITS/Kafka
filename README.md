@@ -30,7 +30,7 @@ But here we are doing it using docker compose. Check the kafka-docker-compose.ym
 step2:
 Now use the command below to pull the two images and create containers for that:
 
-#docker-compose -f docker-compose.yml up -d
+#docker-compose -f kafka-docker-compose.yml up -d
 
 step3:
 Verify that both the containers are running fine using:
