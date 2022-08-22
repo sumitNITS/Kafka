@@ -52,7 +52,7 @@ Use the command below to create the kafka topic:
 
 #kafka-topics.sh --create --zookeeper zookeeper:2181 --replication-factor 1 --partitions 1 --topic topic_name
 
-(Here topic_name will be the name of our topic. And since this is a dummy environment, we can keep replication-factor and partitions at 1)
+(Here topic_name will be the name of our topic. And since this is a test environment, we can keep replication-factor and partitions at 1, The replication-factor describes how many copies of data will be created and Partitions describes the number of brokers we want our data to be split between)
 
 step7:
 Use the below command to describe the kafka topic:
