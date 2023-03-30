@@ -1,5 +1,3 @@
-## Setup and Test Kafka in Local Environment
-
 ### Requirements: 
 
 - VS Code or any other!
