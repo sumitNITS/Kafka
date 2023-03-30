@@ -106,7 +106,7 @@ kafka-console-consumer.sh --bootstrap-server kafka:9092 --topic topic_name --fro
 
 Cool, We are done here!
 
-### Kafka producer and Consumer using python
+### Kafka Message automation using python
 
 ### Steps to Follow:
 
