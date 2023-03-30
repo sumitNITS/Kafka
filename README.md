@@ -1,7 +1,7 @@
 ### Requirements: 
 
 - VS Code or any other!
-- Docker Desktop
+- Docker
 
 ### Basic Understanding
 
