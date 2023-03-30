@@ -105,3 +105,42 @@ kafka-console-consumer.sh --bootstrap-server kafka:9092 --topic topic_name --fro
 ```
 
 Cool, We are done here!
+
+### Kafka producer and Consumer using python
+
+### Steps to Follow:
+
+- Step1: Save the generator.py, producer.py and consumer.py files
+
+- Step2: Setup and activate the virtualenv using the below 
+
+```bash
+pip install virtualenv
+```
+
+```bash
+python -m virtalenv name_of_environment 
+```
+
+```bash
+.\name_of_environment\Scripts\activate
+```
+
+- Step3: Run the below commands
+
+```bash
+pip install kafka-python
+```
+
+```bash
+python consumer.py
+```
+
+Open the below command in a new terminal and observer consumer.py which is running in different terminal
+
+```bash
+python producer.py 
+```
+
+Cool, that's it!
+
